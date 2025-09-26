@@ -1,4 +1,4 @@
-// WAP to accept 10 numbers from user and count all perfect numbers : Armstrong , Palindrome and Prime
+// WAP to accept 10 numbers from user and count all perfect numbers : Armstrong , Palindrome , Prime 
 
 #include <cmath>
 #include <iostream>
