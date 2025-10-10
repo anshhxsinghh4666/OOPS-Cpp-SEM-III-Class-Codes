@@ -174,7 +174,6 @@ int main() {
     return 0;
 }
 
-
 /*
 OUTPUT : 
 anshkumarsingh@Anshs-MacBook-Air-2 output % ./"33_2-D_Array_Operations"
