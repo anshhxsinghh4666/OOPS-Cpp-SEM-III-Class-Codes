@@ -22,3 +22,12 @@ int main() {
 
     cout << "Reverse String : " << arr << endl;
 }
+
+
+/*
+OUTPUT : 
+anshkumarsingh@Anshs-MacBook-Air-2 output % ./"38_Reverse_String"
+Enter String : ANSH
+Reverse String : HSNA
+anshkumarsingh@Anshs-MacBook-Air-2 output % 
+*/

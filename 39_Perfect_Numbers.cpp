@@ -111,3 +111,18 @@ int main() {
 
     return 0;
 }
+
+
+/*
+OUTPUT : 
+
+anshkumarsingh@Anshs-MacBook-Air-2 output % ./"39_Perfect_Numbers"
+Is a Prime Number
+Enter Number : 3
+Armstrong Number
+Enter Number : 321
+321 Is Not a Palindrome
+Enter Number of Elements : 5
+0       1       1       2       3
+Factorial of 10 = 3628800
+*/
