@@ -1,5 +1,4 @@
-// STRING : Input / Output 
-
+// STRING : Input / Output
 
 #include <iostream>
 using namespace std;
@@ -29,11 +28,20 @@ int main() {
     return 0;
 }
 
-
 /*
 NOTE : 
 When you use cin >> arr1;, it only reads up to the first space.
 So, if you enter Ansh Kumar Singh, arr1 will only contain Ansh.
 
 The rest (Kumar Singh) stays in the input buffer and is read by cin.getline(arr2, 100);, so arr2 gets Kumar Singh.
+*/
+
+/*
+OUTPUT : 
+anshkumarsingh@Anshs-MacBook-Air-2 output % ./"36_String"
+Enter String (Word) : ANSH 
+Enter String (with spaces) : ANSH KUMAR SINGH
+Word: ANSH
+Line: ANSH KUMAR SINGH
+anshkumarsingh@Anshs-MacBook-Air-2 output % 
 */
